@@ -1,0 +1,4 @@
+node_modules/
+logs/
+coverage
+src/configs/ssl/
